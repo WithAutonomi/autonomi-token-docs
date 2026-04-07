@@ -4,7 +4,7 @@ description: Nano X Used
 
 # Ledger Sending
 
-Now that your nodes have been hard at work and you have some $AUTONOMI in your wallet, maybe you want to send your friend some or move it to a CEX. Currently $AUTONOMI is not supported in Ledger Live, but have no fear!&#x20;
+Now that your nodes have been hard at work and you have some Autonomi Network Tokens in your wallet, maybe you want to send some to a friend or move them to a centralized exchange. Currently the token is not supported in Ledger Live, but have no fear!&#x20;
 
 1. Open the **Ethereum app** on your Ledger device and navigate to **Settings**. You must **enable Blind signing**.&#x20;
 2. Open **MetaMask** in your browser and select **+ Add account or hardware wallet**
@@ -23,12 +23,12 @@ Now that your nodes have been hard at work and you have some $AUTONOMI in your w
 
 <figure><img src="../../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
 
-5. Make sure to [add the Arbitrum network](add-arbitrum-network.md) and [import $AUTONOMI token](import-the-autonomi-token.md)&#x20;
+5. Make sure to [add the Arbitrum network](add-arbitrum-network.md) and [import the token contract](import-the-autonomi-token.md)&#x20;
 6. Click **Send**&#x20;
 
 <figure><img src="../../.gitbook/assets/image (142).png" alt=""><figcaption></figcaption></figure>
 
-7. Enter the EVM address you wish to send to and the amount of $AUTONOMI, then click **Continue**
+7. Enter the EVM address you wish to send to and the amount of Autonomi Network Tokens, then click **Continue**
 
 <figure><img src="../../.gitbook/assets/image (143).png" alt=""><figcaption></figcaption></figure>
 

@@ -2,7 +2,7 @@
 
 For low costs, and efficient transactions, Autonomi utilises the **Arbitrum** blockchain.
 
-So in order to be able to see and transact with Autonomi tokens, you'll need to add the Arbitrum One network to your wallet.
+So in order to be able to see and transact with Autonomi Network Tokens, you'll need to add the Arbitrum One network to your wallet.
 
 Here's an example of how to do that using MetaMask
 
@@ -28,4 +28,4 @@ Now click **Switch to Arbitrum One**
 {% endstep %}
 {% endstepper %}
 
-Next you'll need to [**Import Autonomi tokens**](import-the-autonomi-token.md) so you can see them in your wallet…
+Next you'll need to [**import the token contract**](import-the-autonomi-token.md) so you can see your Autonomi Network Tokens in your wallet…

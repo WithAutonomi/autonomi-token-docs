@@ -16,4 +16,4 @@ After that is done and dusted, your rewards will be sent to your wallet in a wee
 
 ### Don't forget to configure your wallet
 
-In both cases, you'll need to make sure to set up your wallet to be able to see your ANT when it arrives, by [Adding Arbitrum](../using-autonomi-tokens/holding/add-arbitrum-network.md) and [Importing ANT](../using-autonomi-tokens/holding/import-the-autonomi-token.md).
+In both cases, you'll need to make sure your wallet is ready to receive and display your Autonomi Network Tokens when they arrive by [adding Arbitrum](../using-autonomi-tokens/holding/add-arbitrum-network.md) and [importing the token contract](../using-autonomi-tokens/holding/import-the-autonomi-token.md).

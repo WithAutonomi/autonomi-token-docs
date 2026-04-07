@@ -167,6 +167,6 @@ description: Trezor Safe 5 Used
 
 <figure><img src="../../.gitbook/assets/image (29).png" alt=""><figcaption></figcaption></figure>
 
-35. Now all you need to do is click **Tokens** in the dashboard and you can see your $AUTONOMI!&#x20;
+35. Now all you need to do is click **Tokens** in the dashboard and you can see your Autonomi Network Tokens!&#x20;
 
 <figure><img src="../../.gitbook/assets/image (30).png" alt=""><figcaption></figcaption></figure>
