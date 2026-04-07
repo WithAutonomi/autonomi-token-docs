@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Autonomi Network Tokens](README.md)
+* [Autonomi Network Tokens](index.md)
 
 ## Using Autonomi Tokens
 
