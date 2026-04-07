@@ -6,7 +6,7 @@ description: >-
 
 # How to Create a MetaMask Wallet
 
-In this guide we'll walk you through creating a MetaMask wallet, and configuring it to work with the Autonomi tokens.&#x20;
+In this guide we'll walk you through creating a MetaMask wallet, and configuring it to work with Autonomi Network Tokens.&#x20;
 
 
 
@@ -113,6 +113,6 @@ You've now successfully created an Ethereum wallet.
 {% endstep %}
 
 {% step %}
-Next you'll need to [**Add Arbitrum**](add-arbitrum-network.md) and [**Import $AUTONOMI**](import-the-autonomi-token.md) to your wallet so you can see and use Autonomi tokens…
+Next you'll need to [**Add Arbitrum**](add-arbitrum-network.md) and [**import the token contract**](import-the-autonomi-token.md) so you can see and use Autonomi Network Tokens…
 {% endstep %}
 {% endstepper %}

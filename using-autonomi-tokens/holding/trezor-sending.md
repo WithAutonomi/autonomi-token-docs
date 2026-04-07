@@ -4,7 +4,7 @@ description: Trezor Safe 5 Used
 
 # Trezor Sending
 
-Now that your nodes have been hard at work and you have some $AUTONOMI in your wallet, maybe you want to send your friend some or move it to a CEX. Lets take a look on how to do this inside Trezor Suite.&#x20;
+Now that your nodes have been hard at work and you have some Autonomi Network Tokens in your wallet, maybe you want to send some to a friend or move them to a centralized exchange. Let's take a look at how to do this inside Trezor Suite.&#x20;
 
 1. Go to your Trezor Suite dashboard while your Trezor is plugged in and the PIN is unlocked. Now select **Tokens** and click the **arrow** on the right to send.&#x20;
 

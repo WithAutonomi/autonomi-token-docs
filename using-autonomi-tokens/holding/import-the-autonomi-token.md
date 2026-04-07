@@ -1,30 +1,16 @@
-# Import the Autonomi Token
+# Import the Autonomi Network Token
 
-Once you have [added and enabled the Arbitrum Network ](add-arbitrum-network.md)you'll need to 'Import' the Autonomi Token to your wallet so you can see any of them you you receive.
+Once you have [added and enabled the Arbitrum Network](add-arbitrum-network.md) you'll need to import the Autonomi Network Token contract into your wallet so you can see any tokens you receive.
 
-#### The details you'll need
+## Token contract address
 
-{% tabs %}
-{% tab title="Token Contract Address" %}
 ```
 0xa78d8321B20c4Ef90eCd72f2588AA985A4BDb684
 ```
-{% endtab %}
 
-{% tab title="Currency Symbol" %}
-```
-AUTONOMI
-```
-{% endtab %}
+Most wallets will populate any remaining fields after you enter the contract address.
 
-{% tab title="Decimal Places" %}
-```
-18
-```
-{% endtab %}
-{% endtabs %}
-
-## Importing the Autonomi token in MetaMask
+## Importing the token in MetaMask
 
 Here's an example of how the process works in MetaMask. The screens may look slightly different depending on the version of MetaMask you are using, but it's the same process.
 
@@ -62,4 +48,4 @@ Paste in the following **Token contract address** in the text box
 {% endstep %}
 {% endstepper %}
 
-You'll now be able to see Autonomi tokens in your wallet!
+You'll now be able to see your Autonomi Network Tokens in your wallet!

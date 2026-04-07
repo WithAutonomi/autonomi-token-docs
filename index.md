@@ -1,14 +1,16 @@
 # Autonomi Network Tokens
 
-Autonomi tokens, or $AUTONOMI, are the oil of the Network's economy.
+Autonomi Network Tokens are the oil of the Network's economy.
 
 Users uploading data to the Network **pay in these tokens**, and people contributing their spare resources to the network are **rewarded with them** for doing so.
 
 It's is a utility token that allows for the autonomous network to function without human intervention - a dynamic global market for secure data storage and communication.
 
+Listings vary by venue: on decentralized exchanges the token typically appears as `ANT`, while some centralized exchanges list it as `AUTONOMI`.
+
 ## Key Features
 
-* **Ethereum wallet** addresses can receive Autonomi tokens.
+* **Ethereum wallet** addresses can receive Autonomi Network Tokens.
 * **Earnings are paid in Autonomi Tokens.** When running a node, your [earnings](using-autonomi-tokens/earning.md) will be paid by the network to your Ethereum wallet address
 * Autonomi tokens **work on the Arbitrum blockchain**. This is what is known as a Ethereum L2 blockchain, which makes faster and more cost effective.
 * **You'll need a** [**compatible wallet**](using-autonomi-tokens/holding/compatible-wallets.md) that works Arbitrum in order to see them.

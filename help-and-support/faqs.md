@@ -12,17 +12,17 @@ icon: comment-question
 
 While the Autonomi Network [isn't blockchain based](https://app.gitbook.com/s/T1VY0u5KuOsTpycHpSka/introduction/what-is-autonomi/blockchainless-data) it works with common blockchain payment systems to make the Network accessible and easy to integrate alongside other decentralized solutions.
 
-So ANT uses the Ethereum payment system for ethis reason.&#x20;
+So Autonomi Network Tokens use the Ethereum payment system for this reason.&#x20;
 
-But in order to make payments efficient and low cost, ANT utilises Arbitrum Network—which is what is know as an L2 blockchain—which sits oin top of Ethereum. This means much lower transactions fees (known as Gas) even for small amounts of data, than if it were to use the Ethereum main net directly.\
+But in order to make payments efficient and low cost, Autonomi Network Tokens utilise Arbitrum Network—which is what is know as an L2 blockchain—which sits oin top of Ethereum. This means much lower transactions fees (known as Gas) even for small amounts of data, than if it were to use the Ethereum main net directly.\
 \
 Arbitrum One is simply the name of the live production network,
 
 So, speaking practically:
 
-* Any Ethereum address can receive ANT
+* Any Ethereum address can receive Autonomi Network Tokens
 * You'll need an Arbitrum [compatible wallet](../using-autonomi-tokens/holding/compatible-wallets.md)&#x20;
-* You'll also need [configure it to be able to see and use your ANT](../using-autonomi-tokens/holding/add-arbitrum-network.md)&#x20;
+* You'll also need to [configure it so you can see and use your tokens](../using-autonomi-tokens/holding/add-arbitrum-network.md)&#x20;
 
 </details>
 
@@ -32,7 +32,7 @@ So, speaking practically:
 
 <summary>Are Autonomi Tokens available on a DEX?</summary>
 
-**Yes!** You can buy and trade on decentralized exchnages like [Uniswap V3 and PancakeSwap](../using-autonomi-tokens/buying/#decentralized-exchanges).
+**Yes!** You can buy and trade on decentralized exchnages like [Uniswap V3 and PancakeSwap](../using-autonomi-tokens/buying/#decentralized-exchanges). On decentralized exchanges the token typically appears as `ANT`.
 
 </details>
 
@@ -42,9 +42,9 @@ So, speaking practically:
 
 It's an unfortunate fact that most centralised exchanges aren't available to everyone everywhere, do to the complexities of local regulations.\
 \
-However, you can in many cases still use [Decentralized Exchanges](../using-autonomi-tokens/buying/#decentralized-exchanges) (DEX) to buy ANT, in conjunction with an exchange you can access in your area.\
+However, you can in many cases still use [Decentralized Exchanges](../using-autonomi-tokens/buying/#decentralized-exchanges) (DEX) to buy Autonomi Network Tokens, in conjunction with an exchange you can access in your area.\
 \
-For example: Use Coinbase to buy some USDC, then [use Uniswap](../using-autonomi-tokens/buying/via-uniswap.md) to exchange this for ANT.
+For example: Use Coinbase to buy some USDC, then [use Uniswap](../using-autonomi-tokens/buying/via-uniswap.md) to exchange this for `ANT`.
 
 </details>
 
@@ -88,7 +88,7 @@ A typical home PC will be able to run several nodes at once, and you can start n
 
 <summary>How much can I earn?</summary>
 
-Now many ANT you can earn depends on a number of factors such as:
+How many Autonomi Network Tokens you can earn depends on a number of factors such as:
 
 * How many nodes you are running on your devices
 * How long, and how reliably they are storing and serving data
@@ -112,15 +112,15 @@ So while we can't give you a direct answer, we can recommend you dive in and giv
 
 <summary>What happens to my MaidSafeCoin if I leave it on an exchange?</summary>
 
-If you leave your eMAID on the BitMart exchange after the 6th of February, it will automatically be converted to ANT for you.
+If you leave your eMAID on the BitMart exchange after the 6th of February, it will automatically be converted to Autonomi Network Tokens for you.
 
-If you have MaidSafeCoin on another exchange you will need to withdraw it and [follow the process to convert](../converting-maidsafecoin/process-overview.md) it by receiving the ANT airdrop.
+If you have MaidSafeCoin on another exchange you will need to withdraw it and [follow the process to convert](../converting-maidsafecoin/process-overview.md) it by receiving the Autonomi Network Token airdrop.
 
 </details>
 
 <details>
 
-<summary>How long do I have to convert my MaidSafeCoin to Autonomi Tokens?</summary>
+<summary>How long do I have to convert my MaidSafeCoin to Autonomi Network Tokens?</summary>
 
 The final deadline to convert is **February 3rd, 2028,** with the very last airdrop happening on February 3rd, 2028. \
 \
@@ -130,11 +130,11 @@ We'd recommend you [follow the instructions](../converting-maidsafecoin/process-
 
 <details>
 
-<summary>Will my Autonomi tokens be air-dropped to Ethereum Mainnet, or Arbitrum One?</summary>
+<summary>Will my Autonomi Network Tokens be air-dropped to Ethereum Mainnet, or Arbitrum One?</summary>
 
-While Autonomi tokens can be received by any Ethereum wallet address, your tokens will be airdropped via the **Arbitrum One Network**, not the Ethereum Mainnet. \
+While Autonomi Network Tokens can be received by any Ethereum wallet address, your tokens will be airdropped via the **Arbitrum One Network**, not the Ethereum Mainnet. \
 \
-You'll need to [Add Arbitrum](../using-autonomi-tokens/holding/add-arbitrum-network.md) to your wallet app, and [Import the Autonomi token](../using-autonomi-tokens/holding/import-the-autonomi-token.md) to be able to see and use them.
+You'll need to [Add Arbitrum](../using-autonomi-tokens/holding/add-arbitrum-network.md) to your wallet app, and [import the token contract](../using-autonomi-tokens/holding/import-the-autonomi-token.md) to be able to see and use them.
 
 </details>
 

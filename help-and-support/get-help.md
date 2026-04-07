@@ -1,7 +1,7 @@
 ---
 description: >-
-  If you're looking for a helping hand with using ANT, running a node, or
-  anything in between, here's how to get support.
+  If you're looking for a helping hand with using Autonomi Network Tokens,
+  running a node, or anything in between, here's how to get support.
 icon: life-ring
 ---
 

@@ -4,7 +4,7 @@ The conversion process will open at **11:00 GMT on February 6th, 2025** with the
 
 ## **Airdrop Schedule**
 
-You can initiate the process and submit your details at any time until the final deadline but your ANT tokens will be airdropped according to the following schedule:
+You can initiate the process and submit your details at any time until the final deadline, but your Autonomi Network Tokens will be airdropped according to the following schedule:
 
 * **Twice weekly** (Tuesdays & Fridays) from **14 February 2025 – 7 March 2025**&#x20;
 * **Once weekly** (Fridays) from **8 March 2025 – 4 April 2025**&#x20;
@@ -13,7 +13,7 @@ You can initiate the process and submit your details at any time until the final
 * **Quarterly** (last Friday of the quarter) from **7 February 2026 – 3 February 2028**
 
 {% hint style="info" %}
-For example: If you burn 50 MaidSafeCoin and complete the process by 10th of March 2025, 50 ANT will be airdropped to your wallet on the 14th of March 2025.
+For example: If you burn 50 MaidSafeCoin and complete the process by 10th of March 2025, 50 Autonomi Network Tokens will be airdropped to your wallet on the 14th of March 2025.
 {% endhint %}
 
 {% hint style="info" %}
