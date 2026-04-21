@@ -13,19 +13,17 @@ Starting a node (or even several) is easy, and will work on home computers just 
 {% step %}
 ### **Download the Node Launchpad**&#x20;
 
-[Windows](https://node-launchpad.s3.eu-west-2.amazonaws.com/node-launchpad-0.5.4-x86_64-pc-windows-msvc.zip) (Windows 10+)
+[Windows](https://downloads.autonomi.com/autonomi-app/windows) (Windows 10+)
 
-[Mac](https://node-launchpad.s3.eu-west-2.amazonaws.com/node-launchpad-0.5.4-x86_64-apple-darwin.zip) (MacOS 14 Sonoma)
+[Mac](https://downloads.autonomi.com/autonomi-app/mac) (Apple Silicon)
 
-[Linux ARM](https://node-launchpad.s3.eu-west-2.amazonaws.com/node-launchpad-0.5.4-arm-unknown-linux-musleabi.zip) (Ubuntu 24.04)
-
-[Linux x86-64](https://node-launchpad.s3.eu-west-2.amazonaws.com/node-launchpad-0.5.4-x86_64-unknown-linux-musl.zip) (Ubuntu 24.04)
+[Linux x86-64](https://downloads.autonomi.com/autonomi-app/linux) (Ubuntu 24.04+ recommended)
 {% endstep %}
 
 {% step %}
 ### **Take a look at the Quickstart Guide**&#x20;
 
-Our [**step-by-step guides**](https://app.gitbook.com/s/E2vCbzFkA1U5BwZFjnvL/quickstart-guide) will walk your through each step of getting nodes running your computer.
+Our [**step-by-step guides**](/broken/spaces/E2vCbzFkA1U5BwZFjnvL/pages/qz3Kn6HsuztRa6IjiCde) will walk your through each step of getting nodes running your computer.
 {% endstep %}
 
 {% step %}
