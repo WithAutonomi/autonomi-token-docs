@@ -14,7 +14,7 @@ Listings vary by venue, so follow the exact market shown on each exchange page.
 
 [MEXC (`AUTONOMI/USDT`)](https://www.mexc.com/en-GB/exchange/AUTONOMI_USDT)
 
-[BingX (ANTONOMI/USDT)](https://bingx.com/en/spot/AUTONOMIUSDT)
+[BingX (AUTONOMI/USDT)](https://bingx.com/en/spot/AUTONOMIUSDT)
 
 [OurBit (`AUTONOMI/USDT`)](https://www.ourbit.com/exchange/AUTONOMI_USDT?_from=search)
 
