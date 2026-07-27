@@ -10,14 +10,14 @@ Autonomi Network Tokens are available on the following exchanges.
 
 Listings vary by venue, so follow the exact market shown on each exchange page.
 
-## Centralized Exchanges
+## Centralized Exchanges (CEX)
 
-[MEXC (`AUTONOMI/USDT`)](https://www.mexc.com/en-GB/exchange/AUTONOMI_USDT)
+[MEXC (AUTONOMI/USDT)](https://www.mexc.com/en-GB/exchange/AUTONOMI_USDT)
 
 [BingX (AUTONOMI/USDT)](https://bingx.com/en/spot/AUTONOMIUSDT)
 
-[OurBit (`AUTONOMI/USDT`)](https://www.ourbit.com/exchange/AUTONOMI_USDT?_from=search)
+[OurBit (AUTONOMI/USDT)](https://www.ourbit.com/exchange/AUTONOMI_USDT?_from=search)
 
-## Decentralized Exchanges
+## Decentralized Exchanges (DEX)
 
-[Uniswap (`ANT`)](https://app.uniswap.org/explore/tokens/arbitrum/0xa78d8321b20c4ef90ecd72f2588aa985a4bdb684)
+[Uniswap (ANT/USDC)](https://app.uniswap.org/explore/tokens/arbitrum/0xa78d8321b20c4ef90ecd72f2588aa985a4bdb684)
