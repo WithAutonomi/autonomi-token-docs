@@ -1,5 +1,6 @@
 ---
 description: Buying Autonomi tokens on the BitMart Centralized Exchange
+hidden: true
 ---
 
 # Via BitMart
@@ -8,7 +9,7 @@ BitMart lists the token in the `ANT/USDT` market.
 
 {% stepper %}
 {% step %}
-### **Create a BitMart Account**
+#### **Create a BitMart Account**
 
 * Visit [BitMart](https://www.bitmart.com/)
 * Click **"Sign Up"** and complete the registration process.
@@ -20,21 +21,21 @@ It is always good practice to enable 2FA when possible.
 {% endstep %}
 
 {% step %}
-### **Deposit Funds**
+#### **Deposit Funds**
 
 * Go to **Wallet > Deposit**
 * Choose **USDT** and deposit funds from your preferred exchange or wallet.
 {% endstep %}
 
 {% step %}
-### Buy
+#### Buy
 
 * Go to the [**ANT/USDT** trading pair](https://www.bitmart.com/trade/en-US?type=spot\&symbol=ANT_USDT).
 * Enter the amount of you want to buy and place a **Market or Limit order**.
 {% endstep %}
 
 {% step %}
-### **Withdraw (Optional)**
+#### **Withdraw (Optional)**
 
 * If you prefer self-custody, withdraw your Autonomi Network Tokens to your [compatible wallet](../holding/compatible-wallets.md) such as MetaMask.
 * Go to **Wallet > Withdraw**, enter your wallet address, and confirm the transaction.

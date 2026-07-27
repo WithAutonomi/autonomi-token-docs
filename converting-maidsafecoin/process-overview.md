@@ -2,7 +2,7 @@
 
 MaidSafeCoin is a proxy token for Autonomi tokens, which was made available for purchase during the MaidSafe ICO in 2014. It's redeemable 1:1 for Autonomi tokens through an airdrop.
 
-Holders of [MAID (Omni)](how-to-convert-maid/) and [eMAID (ERC20)](how-to-convert-emaid/) can redeem their tokens for Autonomi tokenswithout the need for KYC. The process varies slightly depending on the token type, but involves **burning your MaidSafeCoin** then **receiving your Autonomi tokens by airdrop** according to a [set schedule](timeline.md).
+Holders of [MAID (Omni)](how-to-convert-maid/) and [eMAID (ERC20)](how-to-convert-emaid/) can redeem their tokens for Autonomi tokens without the need for KYC. The process varies slightly depending on the token type, but involves **burning your MaidSafeCoin** then **receiving your Autonomi tokens by airdrop** according to a [set schedule](timeline.md).
 
 Here are the step-by-step guides for how to do it:
 

@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # BitMart Conversion
 
 If you have your eMAID on the [Bitmart](https://www.bitmart.com/) exchange, they will complete the conversion for you automatically.
